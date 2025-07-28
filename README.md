@@ -20,18 +20,24 @@ Money Transfer (between users)
 Transaction History
 Account Details View
 
-All data is stored and retrieved using MySQL with JDBC.
-
-
-
-
 📸 Screenshots
-<img width="624" height="364" alt="image" src="https://github.com/user-attachments/assets/8b534b51-1e6d-48b7-82d6-96fb2e400204" />
+
 <img width="624" height="339" alt="image" src="https://github.com/user-attachments/assets/6b2335a6-91b9-47ab-98bc-d636a7ed50b9" />
-
-
-
-
+<img width="624" height="341" alt="image" src="https://github.com/user-attachments/assets/023e58c8-9a4d-40b8-a4a5-37ff1a521274" />
+<img width="624" height="353" alt="image" src="https://github.com/user-attachments/assets/afc0c8da-0e39-41c1-b22c-f3db0e214594" />
+<img width="624" height="463" alt="image" src="https://github.com/user-attachments/assets/ba4e9df3-728b-4ef0-aee3-04dca80b38e9" />
+<img width="624" height="333" alt="image" src="https://github.com/user-attachments/assets/c84ce110-01c8-465c-a4a5-157626d68bda" />
+<img width="624" height="427" alt="image" src="https://github.com/user-attachments/assets/d8f36cc1-0994-4399-bdad-0906e5aba856" />
+<img width="624" height="361" alt="image" src="https://github.com/user-attachments/assets/fae9116c-90b0-4544-bc46-82c87c61e54e" />
+<img width="624" height="389" alt="image" src="https://github.com/user-attachments/assets/d52f22b0-d470-4504-a0ac-753b2bccf24b" />
+<img width="624" height="365" alt="image" src="https://github.com/user-attachments/assets/29ef2d7a-3f4e-4984-98f6-eee81ab5a347" />
+<img width="624" height="368" alt="image" src="https://github.com/user-attachments/assets/829b6c2a-7545-4b18-8bad-ae36d050be20" />
+<img width="624" height="352" alt="image" src="https://github.com/user-attachments/assets/b0571e19-da53-41ea-bb88-b42de9cc3573" />
+<img width="624" height="325" alt="image" src="https://github.com/user-attachments/assets/a59c8679-87ba-4c2f-ab7a-6388e8c9a1d6" />
+<img width="624" height="307" alt="image" src="https://github.com/user-attachments/assets/5be7eddd-8586-4484-a4a0-290e9c670825" />
+<img width="624" height="333" alt="image" src="https://github.com/user-attachments/assets/86f6dd5d-e8f8-4282-9ac6-538090854813" />
+<img width="624" height="291" alt="image" src="https://github.com/user-attachments/assets/a41d7bdd-6dcc-491b-b149-6e2d0325fd39" />
+<img width="624" height="319" alt="image" src="https://github.com/user-attachments/assets/da20c052-08d3-45d8-b461-8a2ba7a03eff" />
 
 🛠 Technologies Used
 Java (Servlets)
