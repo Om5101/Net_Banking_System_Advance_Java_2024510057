@@ -1,7 +1,7 @@
-# 🏦 Banking Management System
+<h2 align="center">🏦 Banking Management System</h2>
 
-A **Java-based web application** built as part of our **Advanced Java** university coursework (semester-long group project).  
-The system provides **banking operations for customers** and **administrative functionalities for bank staff**, with role-based access, secure transactions, and an intuitive JSP/Servlet UI.
+<p align="center">A **Java-based web application** built as part of our **Advanced Java** university coursework (semester-long group project).  
+The system provides **banking operations for customers** and **administrative functionalities for bank staff**, with role-based access, secure transactions, and an intuitive JSP/Servlet UI.</p>
 
 ---
 
@@ -83,13 +83,8 @@ The system provides **banking operations for customers** and **administrative fu
 
 ---
 
-<h3 align="center">## 📂 Project Structure</h3>
-<p align="center"><img width="896" height="855" alt="image" src="https://github.com/user-attachments/assets/fc21dccf-b4f7-470e-8e3c-f9a638a17ab1" /></p>
-<p align="center"><img width="863" height="888" alt="image" src="https://github.com/user-attachments/assets/a4f816f1-6cd8-4809-8cf6-72e2d2feb050" /></p>
-<p align="center"><img width="973" height="205" alt="image" src="https://github.com/user-attachments/assets/af4983bf-ecb7-4418-b3fc-35b907c36868" /></p>
-
-
-
+<h3 align="center">📂 Project Structure</h3>
+<p align="center"><img width="1168" height="857" alt="image" src="https://github.com/user-attachments/assets/a92f339d-9c4c-4deb-aae0-c03b3bda3f9c" /></p>
 
 ## 📌 Features
 
