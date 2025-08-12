@@ -81,6 +81,12 @@ The system provides **banking operations for customers** and **administrative fu
 <h3 align="center">Step 14: User Changes Password</h3>
 <p align="center"><img width="1224" height="626" alt="User_ChangePassword" src="https://github.com/user-attachments/assets/6002ffc7-0c71-433b-be5c-93295e5a6590" /></p>
 
+---
+<h3 align="center">Project File Structure</h3>
+<p align="center"><img width="559" height="505" alt="image" src="https://github.com/user-attachments/assets/756dc3b7-2873-4488-a298-d73f91f17580" /></p>
+
+
+
 ## 📌 Features
 
 ### 👤 User Features
