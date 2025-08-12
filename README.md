@@ -82,8 +82,12 @@ The system provides **banking operations for customers** and **administrative fu
 <p align="center"><img width="1224" height="626" alt="User_ChangePassword" src="https://github.com/user-attachments/assets/6002ffc7-0c71-433b-be5c-93295e5a6590" /></p>
 
 ---
-<h3 align="center">Project File Structure</h3>
-<p align="center"><img width="559" height="505" alt="image" src="https://github.com/user-attachments/assets/756dc3b7-2873-4488-a298-d73f91f17580" /></p>
+
+<h3 align="center">## 📂 Project Structure</h3>
+<p align="center"><img width="896" height="855" alt="image" src="https://github.com/user-attachments/assets/fc21dccf-b4f7-470e-8e3c-f9a638a17ab1" /></p>
+<p align="center"><img width="863" height="888" alt="image" src="https://github.com/user-attachments/assets/a4f816f1-6cd8-4809-8cf6-72e2d2feb050" /></p>
+<p align="center"><img width="973" height="205" alt="image" src="https://github.com/user-attachments/assets/af4983bf-ecb7-4418-b3fc-35b907c36868" /></p>
+
 
 
 
@@ -119,8 +123,6 @@ The system provides **banking operations for customers** and **administrative fu
 - **Tomcat Server** for deployment
 
 ---
-
-## 📂 Project Structure
 
 ## 🚀 How to Run Locally
 
