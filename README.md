@@ -1,7 +1,7 @@
 <h2 align="center">🏦 Banking Management System</h2>
 
-<p align="center">A **Java-based web application** built as part of our **Advanced Java** university coursework (semester-long group project).  
-The system provides **banking operations for customers** and **administrative functionalities for bank staff**, with role-based access, secure transactions, and an intuitive JSP/Servlet UI.</p>
+<p align="center">A Java-based web application built as part of our Advanced Java University Coursework (semester-long group project).  
+The system provides banking operations for customers and administrative functionalities for bank staff, with role-based access, secure transactions.</p>
 
 ---
 
